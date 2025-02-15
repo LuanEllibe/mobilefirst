@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+/* Todas as demais midias */
+
+/* Typical Device Brakepoints
+
+Pequenas telas: até 600px
+Celulares: de 600px até 768px
+Tablets: de 769px até 992px
+Desktop: 993px até 1200px
+Grandes telas: acima de 1200px
+
+*/
+
+@media print { /* Impressão */
+
+}
+
+
+@media screen and (min-width: 768px) and (max-width: 992px) { /* Tablets */
+
+}
+
+
+@media screen and (min-width: 992px) and (max-width: 1200px) { /* Desktop */
+
+}
+
+
+@media screen and (min-width: 1200px) { /* Grandes telas */
+
+}
